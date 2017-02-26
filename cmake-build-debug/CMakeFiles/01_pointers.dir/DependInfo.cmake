@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sirfeedsalot/Documents/CSC340/class-coding-2-pointers-template/main.cpp" "/home/sirfeedsalot/Documents/CSC340/class-coding-2-pointers-template/cmake-build-debug/CMakeFiles/01_pointers.dir/main.cpp.o"
+  "/home/strike325/CLionProjects/class-coding-2-pointers-template/main.cpp" "/home/strike325/CLionProjects/class-coding-2-pointers-template/cmake-build-debug/CMakeFiles/01_pointers.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

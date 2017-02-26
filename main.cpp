@@ -3,6 +3,12 @@
  * CREDIT: tutorials point c++ pointer tutorials
  * http://www.tutorialspoint.com/cplusplus/cpp_pointers.htm
  */
+
+ /*
+  * I totally didn't make changes to anything in here,
+  * but it looks like i should push to this repository anyway!
+  * Hererrrr ya goooooereadawdawdasdasd.
+  */
 #include <iostream>
 
 #define MAX 3
